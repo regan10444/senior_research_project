@@ -2,6 +2,9 @@
 
 The objective of my project is to see which AI is the best for determining whether an email is a phishing email or not. I will use three popular AIs and a prompt that guides them into their decision, as well as providing a result on whether an email is phishing or not. 
 
+Presented at the CCSNE Conference and CREATE Conference, April 2026
+
+
 
 <img width="608" height="376" alt="image" src="https://github.com/user-attachments/assets/11b1c2b1-dd5e-40db-97e8-368b673f9b21" />
 
