@@ -57,15 +57,17 @@ The following prompt was used consistently across all three models:
 
 **Table 1.** Confusion matrix for each LLM, showing true positives, false positives, true negatives, and false negatives across all classifications.
 
-<img width="383" height="564" alt="Table 1 - Confusion Matrices" src="https://github.com/user-attachments/assets/0d539b85-56a3-421b-a5f1-e5e78e209a42" />
+<img width="608" height="642" alt="Figure 2 - Example Screenshots" src="https://github.com/user-attachments/assets/19b0f788-9186-4820-87c8-78df07bb61bb" />
+
 
 ---
 
 ### Example Output
 
-**Figure 2.** A sample phishing email from the dataset alongside an example model explanation, illustrating how the LLMs reason through their classifications.
+**Figure 2.** A sample of a phishing email from the dataset alongside a non-phishing email from the other dataset.
 
-<img width="608" height="642" alt="Figure 2 - Example Screenshots" src="https://github.com/user-attachments/assets/19b0f788-9186-4820-87c8-78df07bb61bb" />
+
+<img width="383" height="564" alt="Table 1 - Confusion Matrices" src="https://github.com/user-attachments/assets/0d539b85-56a3-421b-a5f1-e5e78e209a42" />
 
 ---
 
