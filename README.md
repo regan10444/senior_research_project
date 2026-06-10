@@ -28,7 +28,9 @@ Each model received the same structured prompt for every email sample, instructi
 
 The following prompt was used consistently across all three models:
 
-<img width="738" height="474" alt="Prompt used for each LLM" src="https://github.com/user-attachments/assets/0edcddea-5f43-4de3-8a8c-ae2d79d56337" />
+<img width="608" height="376" alt="Figure 1 - Accuracy of LLMs in Detecting Phishing Emails" src="https://github.com/user-attachments/assets/11b1c2b1-dd5e-40db-97e8-368b673f9b21" />
+
+
 
 ---
 
@@ -47,7 +49,7 @@ The following prompt was used consistently across all three models:
 
 **Figure 1.** Accuracy of each LLM in detecting phishing emails. The bar chart below compares each model's overall classification accuracy.
 
-<img width="608" height="376" alt="Figure 1 - Accuracy of LLMs in Detecting Phishing Emails" src="https://github.com/user-attachments/assets/11b1c2b1-dd5e-40db-97e8-368b673f9b21" />
+<img width="738" height="474" alt="Prompt used for each LLM" src="https://github.com/user-attachments/assets/0edcddea-5f43-4de3-8a8c-ae2d79d56337" />
 
 ---
 
